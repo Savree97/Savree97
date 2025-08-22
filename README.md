@@ -1,12 +1,12 @@
-# 👋 Hi, I'm **Savree Dohar**  
+# 👋 Hi, I'm **Savree Dohar**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=savree97&label=Profile%20views&color=0e75b6&style=flat-square" alt="savree97" /> 
 </p>
 
 > 🎓 Computer Science student  
-> 💻 Currently exploring **Machine Learning, Deep Learning, and Web Development**  
-> 🚀 Passionate about **DSA and Problem Solving**  
+> 💻 Exploring **Machine Learning, Deep Learning, and Web Development**  
+> 🚀 Interested in **Problem Solving & DSA**  
 > 📫 Reach me at: [savreedohar@gmail.com](mailto:savreedohar@gmail.com)  
 
 ---
@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
@@ -46,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="matlab logo" />
 </div>
