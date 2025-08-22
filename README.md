@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Savree Dohar**
+# 👋 Hi, I'm **Savree**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=savree97&label=Profile%20views&color=0e75b6&style=flat-square" alt="savree97" /> 
